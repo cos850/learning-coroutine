@@ -1,4 +1,4 @@
-package com.hyeri.learningcoroutine.lec01
+package com.hyeri.learningcoroutine.lec05
 
 import kotlinx.coroutines.*
 
